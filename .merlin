@@ -1,0 +1,18 @@
+
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/home/chuck/Projects/personal/poe/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /home/chuck/Projects/personal/poe/node_modules/bs-platform/lib/ocaml
+B /home/chuck/Projects/personal/poe/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /home/chuck/Projects/personal/poe/node_modules/reason-react/lib/ocaml
+B /home/chuck/Projects/personal/poe/node_modules/reason-react/lib/ocaml
+S /home/chuck/Projects/personal/poe/node_modules/bs-css/lib/ocaml
+B /home/chuck/Projects/personal/poe/node_modules/bs-css/lib/ocaml
+S /home/chuck/Projects/personal/poe/node_modules/bs-fetch/lib/ocaml
+B /home/chuck/Projects/personal/poe/node_modules/bs-fetch/lib/ocaml
+S /home/chuck/Projects/personal/poe/node_modules/@glennsl/bs-json/lib/ocaml
+B /home/chuck/Projects/personal/poe/node_modules/@glennsl/bs-json/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

@@ -1,0 +1,13 @@
+{
+  "name": "poe",
+  "refmt": 3,
+  "reason": { "react-jsx": 3 },
+  "sources": ["src"],
+  "package-specs": [
+    {
+      "module": "es6-global",
+      "in-source": false
+    }
+  ],
+  "bs-dependencies": ["reason-react", "bs-css", "bs-fetch", "@glennsl/bs-json"]
+}
